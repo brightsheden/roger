@@ -26,7 +26,7 @@ SECRET_KEY = '38yj1)8&tb)2xcy(@e#ak@xr8-k7&ct*hhvxear@_gc0^m+pnd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.s4uk-nott-online.site', 's4uk-nott-online.site','https://s4uk-nott-online.site' ,'localhost', '127.0.0.1']
 
 
 # Application definition
